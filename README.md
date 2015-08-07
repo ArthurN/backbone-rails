@@ -6,9 +6,9 @@ Easily setup and use backbone.js (1.2.0) with Rails 3.1 and greater
 
 ###Github master branch###
 
-Gem version : 1.2.0
+Gem version : 1.2.1
 
-Backbone version : 1.2.0
+Backbone version : 1.2.1
 
 Underscore version : 1.8.3
 
